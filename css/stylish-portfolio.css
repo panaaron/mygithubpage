@@ -199,6 +199,19 @@ hr.small {
     padding: 50px 0;
 }
 
+.profile-pic {
+  margin-top: 30px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  text-align: center;
+  user-drag: none; 
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+}
+
+
 .portfolio-item {
     margin-bottom: 30px;
 }
@@ -236,5 +249,5 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 80px 0;
 }
